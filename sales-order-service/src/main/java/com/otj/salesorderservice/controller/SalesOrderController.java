@@ -25,8 +25,8 @@ public class SalesOrderController {
 	@Autowired
 	private CustomerSOSRepo customersosrepo;
 	
-	@Autowired
-	private OrderLineItemRepo orderLineItemRepo;
+//	@Autowired
+//	private OrderLineItemRepo orderLineItemRepo;
 	
 	@Autowired
 	private SalesOrderRepo salesOrderRepo;
